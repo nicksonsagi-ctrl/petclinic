@@ -1,0 +1,6 @@
+{
+  "name": "PawCare – Pet Health & Wellness Center",
+  "description": "A comprehensive veterinary booking and wellness platform offering preventive care, diagnostics, surgical consultations, and instant appointment scheduling in Sri Lanka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
